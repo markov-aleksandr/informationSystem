@@ -17,6 +17,10 @@ class MainController extends Controller
 
     public function index()
     {
-        $this->view->generate('createStudent.php' );
+        $this->view->generate('main-view.php' );
+    }
+    public function create()
+    {
+        $this->view->generate('createStudent-view.php' );
     }
 }
