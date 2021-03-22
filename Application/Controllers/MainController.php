@@ -23,4 +23,8 @@ class MainController extends Controller
     {
         $this->view->generate('createStudent-view.php' );
     }
+    public function output()
+    {
+        $this->view->generate('outputStudent.php' );
+    }
 }
