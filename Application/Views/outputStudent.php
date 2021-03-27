@@ -62,7 +62,7 @@
     </div>
 </div>
 
-<!-- The Modal -->
+<!-- The Modal -->  
 <div class="modal" id="myModal">
     <div class="modal-dialog">
         <div class="modal-content">
