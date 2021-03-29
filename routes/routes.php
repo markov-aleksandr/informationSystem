@@ -6,6 +6,7 @@ $router = new Phroute\Phroute\RouteCollector();
 $router->get('/', [\Application\Controllers\MainController::class, 'index']);
 $router->get('/pupils/create', [\Application\Controllers\MainController::class, 'create']);
 $router->get('/pupils/output', [\Application\Controllers\MainController::class, 'output']);
+$router->get('/pupils/rating', [\Application\Controllers\MainController::class, 'rating']);
 
 
 
