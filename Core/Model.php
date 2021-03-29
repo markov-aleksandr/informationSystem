@@ -11,7 +11,7 @@ class Model
 
     protected function __construct()
     {
-        $this->dataConnect = new PDO("mysql:host=localhost;dbname=blogData;charset=utf8", 'root', 'root');
+        $this->dataConnect = new PDO("mysql:host=s1.ho.ua;dbname=domna-gadanie;charset=utf8", 'domna-gadanie', 'gerkauiop123');
     }
 
 }
