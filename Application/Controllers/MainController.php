@@ -27,4 +27,8 @@ class MainController extends Controller
     {
         $this->view->generate('outputStudent.php' );
     }
+        public function rating()
+    {
+        $this->view->generate('rating-view.php' );
+    }
 }
