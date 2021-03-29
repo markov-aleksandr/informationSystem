@@ -5,7 +5,7 @@ namespace Application\Models;
 
 use Core\Model;
 
-class MainModel extends Models
+class MainModel extends Model
 {
     public function __construct()
     {
