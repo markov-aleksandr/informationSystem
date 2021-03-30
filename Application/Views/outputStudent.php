@@ -7,7 +7,7 @@
 
             <div class="col">
                 <div class="card shadow-sm">
-                    <div class="card-header">
+                    <div class="card-header  bg-primary text-white">
                         <b>Станиславский Егор </b>
                     </div>
                     <div class="card-body">
@@ -25,7 +25,7 @@
             </div>
             <div class="col">
                 <div class="card shadow-sm">
-                    <div class="card-header">
+                    <div class="card-header  bg-primary text-white">
                         <b>Александр Марков</b>
                     </div>
                     <div class="card-body">
@@ -43,7 +43,7 @@
             </div>
             <div class="col">
                 <div class="card shadow-sm">
-                    <div class="card-header"><b>Жорик Борик</b>
+                    <div class="card-header  bg-primary text-white"><b>Жорик Борик</b>
                     </div>
                     <div class="card-body">
                         <p class="card-text">ОП1-18</p>
@@ -62,7 +62,7 @@
     </div>
 </div>
 
-<!-- The Modal -->
+<!-- The Modal -->  
 <div class="modal" id="myModal">
     <div class="modal-dialog">
         <div class="modal-content">
